@@ -70,4 +70,4 @@ Unit tests are included and cover key functionalities like user registration, bo
 
 ### Postman Collection
 
-https://api.postman.com/collections/4142051-b3692df3-c5df-4f03-a7e3-e9f891588c4a?access_key=PMAT-01JB2QNCNF099XVDBSR3E4JY4B
+https://web.postman.co/workspace/API-Showcase~4303cccd-7880-48ae-841b-08920a48bc47/collection/4142051-b3692df3-c5df-4f03-a7e3-e9f891588c4a
